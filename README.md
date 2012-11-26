@@ -7,4 +7,4 @@ Fitting perfectly with any of the light variations of the main theme.
 Buttons used are from a default openbox theme.
 
 
-![screen](diutsu.github.com/diutsu/MediterraneanNight/screen.png)
+![screen](http://github.com/diutsu/MediterraneanNight/screen.png)
