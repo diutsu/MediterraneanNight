@@ -6,5 +6,4 @@ http://gnome-look.org/content/show.php/MediterraneanNight?content=148398
 Fitting perfectly with any of the light variations of the main theme.
 Buttons used are from a default openbox theme.
 
-
-![screen](http://github.com/diutsu/MediterraneanNight/screen.png)
+See screen.png for a preview
